@@ -36,5 +36,3 @@ Make sure you have the following prerequisites installed:
 - **Daily Step Visualization**: Displays a plot of daily steps to visualize activity levels over time.
 
 ---
-
-Feel free to adjust the content or add more details as needed!
