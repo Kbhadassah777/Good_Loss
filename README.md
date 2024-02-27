@@ -37,14 +37,6 @@ Make sure you have the following prerequisites installed:
 - **Calorie Burn Calculation**: The application calculates daily calorie burn based on Garmin Connect data.
 - **Daily Step Visualization**: Displays a plot of daily steps to visualize activity levels over time.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to adjust the content or add more details as needed!
