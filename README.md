@@ -20,12 +20,12 @@ Make sure you have the following prerequisites installed:
 
 ## Usage
 
-1. Clone the repository or download the `good_loss.py` file.
+1. Clone the repository or download the `good_loss` file.
 2. Open a terminal or command prompt.
-3. Navigate to the directory containing `good_loss.py`.
+3. Navigate to the directory containing `main.py`.
 4. Run the script using the following command:
    ```
-   python good_loss.py
+   python main.py
    ```
 5. Enter your email and password for Garmin Connect when prompted.
 6. Enter the details of your meals (breakfast, brunch, lunch, snack).
